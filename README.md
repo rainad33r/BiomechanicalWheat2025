@@ -24,9 +24,11 @@ Links will navigate you to specific portions of the project completed
 
 ### Data Collected
 
-> Load Cell Data
+> Data collected from the four-point bend test and cross-section analysis </br>[Material Testing](/CollectedData/MaterialTesting)
 
-> Image Capture
+> Analysis of material testing data</br>[Material Testing Analysis](/CollectedData/MaterialTestingAnalysis.xlsx)
+
+> Videos and Images of the apparatus in the field </br> [Image Capture](/CollectedData/Video)
 
 
 
