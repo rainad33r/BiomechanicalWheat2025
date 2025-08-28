@@ -1,7 +1,7 @@
 # BiomechanicalWheat2025
 Compiled files of all items worked on over the summer for the wheat testing for lodging parameters. 
 
-You can find my final poster [here](#FinalPoster.pdf)! 
+You can find my final poster [here](main/FinalPoster.pdf)! 
 
 *Try to include links to each portion of the github space*
 
