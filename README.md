@@ -3,23 +3,24 @@ Compiled files of all items worked on over the summer for the wheat testing for 
 
 You can find my final poster with data from this repo [here](/FinalPoster.pdf)!
 
-*Try to include links to each portion of the github space*
+## Project Sections
+Links will navigate you to specific portions of the project completed,  
 
 ### Physical Design
 
-> [Design Files (pdfs of drawings, etc)](/PhysicalDesign/DesignFiles/)
+> Engineering drawings and references used when modelling the full design. Many are images taken straight from my notebook. </br>[Design Files](/PhysicalDesign/DesignFiles/)
 
-> [Model Files (autodesk inventor)](/PhysicalDesign/modelling)
+> Includes visual references for machining and STL files of the physical model </br> [Model Files (autodesk inventor)](/PhysicalDesign/modelling)
 
 ### Code
 
-> Load Cell Acquisition Code
+> Code used in the field with a Phidget wheatstone bridge, load cell and HUB - Python</br> [Load Cell Acquisition Code](/Code)
 
-> Colour Thresholding Code
+> Code used to isolate and measure the wheat head motion - MATLAB </br>[Colour Thresholding Code](/Cod)
 
-> Cross-Section Analysis Code
+> Code used to calculate the cross-sectional area of imaged stems (Images must have a black background to work, images captured with AMScope camera in SpecLab)</br>[Cross-Section Analysis Code](/Code)
 
-> Simulation Code (Must be implemented with [artisynth](https://www.artisynth.org/Main/HomePage), which must be downloaded)
+> Displays an Elastic-Rod with variable damping, stiffness and applied force, code must be implemented with artisynth found [here](https://www.artisynth.org/Main/HomePage)</br>[Simulation Code](/Code)
 
 ### Data Collected
 
