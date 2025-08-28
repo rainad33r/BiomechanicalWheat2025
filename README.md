@@ -18,7 +18,7 @@ Links will navigate you to specific portions of the project completed
 
 > Code used to isolate and measure the wheat head motion - MATLAB </br>[Colour Thresholding Code](/Code/ColourThresholding)
 
-> Code used to calculate the cross-sectional area of imaged stems (Images must have a black background to work, images captured with AMScope camera in SpecLab)</br>[Cross-Section Analysis Code](/Code)
+> Code used to calculate the cross-sectional area of imaged stems (Images must have a black background to work, images captured with AMScope camera in SpecLab)</br>[Cross-Section Analysis Code](/Code/CrossSectionAnalyzer.m)
 
 > Displays an Elastic-Rod with variable damping, stiffness and applied force, code must be implemented with artisynth found [here](https://www.artisynth.org/Main/HomePage)</br>[Simulation Code](/Code)
 
