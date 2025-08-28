@@ -1,7 +1,7 @@
 # BiomechanicalWheat2025
 Compiled files of all items worked on over the summer for the wheat testing for lodging parameters. 
 
-You can find my final poster [here](/FinalPoster.pdf)! 
+You can find my final poster with data from this repo [here](/FinalPoster.pdf)!
 
 *Try to include links to each portion of the github space*
 
@@ -9,7 +9,7 @@ You can find my final poster [here](/FinalPoster.pdf)!
 
 > Design Files (pdfs of drawings, etc)
 
-> Model Files (autodesk inventor)
+> [Model Files (autodesk inventor)](/modelling)
 
 ### Code
 
