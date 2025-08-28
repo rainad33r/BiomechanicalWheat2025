@@ -1,7 +1,7 @@
 # BiomechanicalWheat2025
 Compiled files of all items worked on over the summer for the wheat testing for lodging parameters. 
 
-You can find my final poster here! 
+You can find my final poster [here](#FinalPoster.pdf)! 
 
 *Try to include links to each portion of the github space*
 
@@ -19,7 +19,7 @@ You can find my final poster here!
 
 > Cross-Section Analysis Code
 
-> Simulation Code (Must be implemented with artisynth, which can be found here.)
+> Simulation Code (Must be implemented with [artisynth](https://www.artisynth.org/Main/HomePage), which must be downloaded)
 
 ### Data Collected
 
