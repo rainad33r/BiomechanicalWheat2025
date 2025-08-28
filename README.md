@@ -9,7 +9,7 @@ You can find my final poster with data from this repo [here](/FinalPoster.pdf)!
 
 > Design Files (pdfs of drawings, etc)
 
-> [Model Files (autodesk inventor)](/modelling)
+> [Model Files (autodesk inventor)](/PhysicalDesign/modelling)
 
 ### Code
 
