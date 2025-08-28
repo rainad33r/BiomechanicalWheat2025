@@ -20,7 +20,7 @@ Links will navigate you to specific portions of the project completed
 
 > Code used to calculate the cross-sectional area of imaged stems (Images must have a black background to work, images captured with AMScope camera in SpecLab)</br>[Cross-Section Analysis Code](/Code/CrossSectionAnalyzer.m)
 
-> Displays an Elastic-Rod with variable damping, stiffness and applied force, code must be implemented with artisynth found [here](https://www.artisynth.org/Main/HomePage)</br>[Simulation Code](/Code/ElasticRod.java)
+> Displays an elastic rod beam with variable damping, stiffness and applied force, code must be implemented with artisynth found [here](https://www.artisynth.org/Main/HomePage)</br>[Simulation Code](/Code/ElasticRod.java)
 
 ### Data Collected
 
@@ -29,6 +29,8 @@ Links will navigate you to specific portions of the project completed
 > Analysis of material testing data</br>[Material Testing Analysis](/CollectedData/MaterialTestingAnalysis.xlsx)
 
 > Videos and Images of the apparatus in the field </br> [Image Capture](/CollectedData/Video)
+
+> Captured data and analysis of captred load cell data in the field </br> [Load Cell Data](/CollectedData/LoadCellTesting.xlsx)
 
 
 
