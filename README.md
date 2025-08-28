@@ -7,7 +7,7 @@ You can find my final poster with data from this repo [here](/FinalPoster.pdf)!
 
 ### Physical Design
 
-> Design Files (pdfs of drawings, etc)
+> [Design Files (pdfs of drawings, etc)](/PhysicalDesign/DesignFiles/)
 
 > [Model Files (autodesk inventor)](/PhysicalDesign/modelling)
 
