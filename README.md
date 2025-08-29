@@ -1,4 +1,4 @@
-# BiomechanicalWheat2025
+# BiomechanicalWheat2025 USRA Repo
 Compiled files of all items worked on over the summer for the wheat testing for lodging parameters. 
 
 You can find my final poster with data from this repo [here](/FinalPoster.pdf)!
@@ -7,6 +7,8 @@ You can find my final poster with data from this repo [here](/FinalPoster.pdf)!
 Links will navigate you to specific portions of the project completed  
 
 ### Physical Design
+
+For more information on the specifications that went into the physical design, please navigate to the [Physical Design Readme](/PhysicalDesign/README-physicalDesign.md)
 
 > Engineering drawings and references used when modelling the full design. Many are images taken straight from my notebook. </br>[Design Files](/PhysicalDesign/DesignFiles/)
 
@@ -24,7 +26,7 @@ Links will navigate you to specific portions of the project completed
 
 ### Data Collected
 
-> Data collected from the four-point bend test and cross-section analysis </br>[Material Testing](/CollectedData/MaterialTesting)
+> Data collected from the four-point bend test and cross-section analysis </br>[Material Testing](/CollectedData/MaterialsTesting)
 
 > Analysis of material testing data</br>[Material Testing Analysis](/CollectedData/MaterialTestingAnalysis.xlsx)
 
