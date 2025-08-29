@@ -1,7 +1,7 @@
 # Data Collection Review
 
 ## Image Capture
-</br>
+
 The videos captured from both the manual and cart showed promise for oscillation of the wheat, however, a few parameters of the design may need to change to for further implementation. 
 
 1. Larger Displacement and larger barrier from external wheat. 
@@ -17,4 +17,13 @@ The videos captured from both the manual and cart showed promise for oscillation
 
 ## Load Cell
 
-Data collected by the load cell 
+Data collected by the load cell was also interesting to disect. With the main portion of the in-field collection oscillating quite a bit on a downward motion. There are a few ideals for the future use of the load cell, if it were to be used with the cart again.
+
+1. Test the possibility of the load cell acting like an accelerometer. 
+    - The cart in motion tended to show an increase on the load data collected.
+        - This can be tested by simply measuring the load during a speed up and slow down test. 
+
+2. If the load cell is acting like an accelerometer, move the cart at a slower pace. 
+
+Finally, it was found that in combination with the side to side movement of the main design, the load cell would measure that motion as a load instead of the wheat stems. This can be possibly reduced with a more secure design as stated in the previous section. 
+
