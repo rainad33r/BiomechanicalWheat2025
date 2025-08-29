@@ -26,6 +26,8 @@ For more information on the specifications that went into the physical design, p
 
 ### Data Collected
 
+For more information on the collected data and the possible next steps resulting from that can be found at this [ReadMe](/CollectedData/README-Data.md). 
+
 > Data collected from the four-point bend test and cross-section analysis </br>[Material Testing](/CollectedData/MaterialsTesting)
 
 > Analysis of material testing data</br>[Material Testing Analysis](/CollectedData/MaterialTestingAnalysis.xlsx)
